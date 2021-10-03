@@ -1,0 +1,11 @@
+# $t0 = reset
+# $t1 = mise1
+# $t2 = cash1
+# $t3 = numero_choisi1
+# $t4 = type_mise1
+# $t5 = mise2
+# $t6 = cash2
+# $t7 = numero_choisi2
+# $t8 = type_mise2
+# numero_gagnant = $t9
+# couleur gagnante = $s0
