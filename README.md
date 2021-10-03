@@ -1,2 +1,2 @@
 # Assembler-roulette
-Implementation of the roulette game on mips.
+Implementation of the roulette game in mips and C.
